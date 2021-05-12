@@ -1,0 +1,6 @@
+# Required linux programs
+ssconvert
+fastqc
+trim_galore
+bismark
+bismark_methylation_extractor
